@@ -157,3 +157,8 @@ app/functions/*/requirements.txt
 data/**/*.md5
 
 .DS_Store
+
+# Azure local settings
+.azure/*/config.json
+.azure/*/.env
+*.local
